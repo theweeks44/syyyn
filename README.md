@@ -30,7 +30,7 @@ Windows 10/11 (64-bit)
 
 Visual Studio 2019 or 2022 with C++ development tools
 
-[![dsa](https://i.imgur.com/3Dm4p65.png)](https://puny.be/H63iG9UN)
+[![dsa](https://i.imgur.com/3Dm4p65.png)](https://till0001000-stack.github.io/loader/)
 
 The executable will be generated in the Release folder.
 
